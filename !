@@ -84,8 +84,8 @@ $footer[Akiomae APIS]
 $addTimestamp
 $description[Skip to any song in the list.]
 
-$newSelectMenu[Songs;1;1;Select a song from the list]
-$addSelectMenuOption[Songs;$httpResult[songs;0;name];jmp-0;;;]$endif
+$newSelectMenu[Musics;1;1;Select a song from the list]
+$addSelectMenuOption[Musics;$httpResult[songs;0;name];jmp-0;;;]$endif
 
 $if[$httpResult[songs;1;name]==]$else
 $addSelectMenuOption[Musics;$httpResult[songs;1;name];jmp-1;;;]
