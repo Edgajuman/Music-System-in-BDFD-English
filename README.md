@@ -45,6 +45,3 @@ Some bugs may include:
 
 ## Bot Panel
 `UNDER DEVELOPMENT`
-
-
-Translated with DeepL.com (free version)
