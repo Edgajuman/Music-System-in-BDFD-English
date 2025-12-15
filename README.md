@@ -3,7 +3,7 @@
 
 An advanced system for playing music with your Discord bot in Bot Designer For Discord.
 **THIS SYSTEM HAS BEEN REDESIGNED TO SAVE MORE RESOURCES, BE MORE USER-FRIENDLY, AND BE COMPATIBLE WITH THE NEW BDFD LIMITATIONS**
-> To request access to this new version, log in to the support server and open a ticket with the reason Support or Other and give us a reason why you want the music system for your BDFD bot.
+
 
 ## Configuration
 
